@@ -1,0 +1,8 @@
+How to use branches?
+- отрицание
+- гнев
+- депрессия
+- торги
+- принятие
+Then:
+- use "get branch" and "get checkout" to do magic
