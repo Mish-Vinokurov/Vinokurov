@@ -5,4 +5,8 @@ How to use branches?
 - торги
 - принятие
 Then:
-- use "get branch" and "get checkout" to do magic
+- use "git branch" and "git checkout" to do magic
+
+А именно:
+- git branch is for making new branch
+- git checkout is for change the branch
